@@ -212,45 +212,55 @@ plt.show()
 ```
 
 ## Output:
-- **i)** Read and Display an Image.
+**i)** Read and Display an Image.
 
 1.Eagle Greyscale
+
 <img width="654" height="512" alt="image" src="https://github.com/user-attachments/assets/81549600-eb77-4290-9ede-83a26edc5e48" />
 
 2.Eagle PNG
+
 <img width="663" height="520" alt="image" src="https://github.com/user-attachments/assets/e454aede-72a3-47c5-a3c7-360a1fe81e49" />
 
 3.Cropped Eagle
+
 <img width="488" height="543" alt="image" src="https://github.com/user-attachments/assets/5e1424b4-4d97-465e-8a8c-80acbc5e806e" />
 
 4.Flipped Eagle
+
 <img width="672" height="542" alt="image" src="https://github.com/user-attachments/assets/23351a3f-3f3b-4e42-91e4-3d6e205fd5d0" />
 
 5.Apollo 11 Saturn V Launch Annotated Image
+
 <img width="682" height="421" alt="image" src="https://github.com/user-attachments/assets/89b628af-f6aa-4fed-8349-0f81a44a331e" />
 
-- **ii)** Adjust Image Brightness.
+**ii)** Adjust Image Brightness.
 
 <img width="827" height="215" alt="image" src="https://github.com/user-attachments/assets/cf598836-c0ec-42c9-aa1f-7ee26ddb562b" />
 
     
-- **iii)** Modify Image Contrast.
+**iii)** Modify Image Contrast.
 
 <img width="823" height="217" alt="image" src="https://github.com/user-attachments/assets/412e5611-67af-4a56-8073-4f53aadd0b2a" />
 
   
-- **iv)** Generate Third Image Using Bitwise Operations.
+**iv)** Generate Third Image Using Bitwise Operations.
+
 1.Split BGR Image
+
 <img width="822" height="223" alt="image" src="https://github.com/user-attachments/assets/e6c96726-ba35-489d-bb37-8387e762a38e" />
 
 
 2.Merged RGB Image
+
 <img width="498" height="404" alt="image" src="https://github.com/user-attachments/assets/6aec3dcb-aa57-46df-a884-912296247440" />
 
 3.Split HSV Image
+
 <img width="815" height="220" alt="image" src="https://github.com/user-attachments/assets/24bb97a9-c56d-49f9-8c79-4b744959a72e" />
 
 4.Merged HSV Image
+
 <img width="818" height="335" alt="image" src="https://github.com/user-attachments/assets/beeff28a-be56-4d81-afa7-567006c759b1" />
 
 ## Result:
