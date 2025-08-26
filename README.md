@@ -1,4 +1,6 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+## NAME:JEECIKASRINA M
+## REG:212223100015
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
